@@ -1,2 +1,5 @@
 # igore macos files
 .DS_Store
+
+# docx file
+*.docx
