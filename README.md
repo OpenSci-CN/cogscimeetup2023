@@ -4,13 +4,13 @@
 ## Organized by: 
 The organizing team consists of four early career researchers located in or around Shanghai, China. Below are the details of their information: 
 
-Dr. Hu Chuan-Peng, Professor, School of Psychology, Nanjing Normal University, Nanjing, Jiangsu Province, China. Email: hcp4715 AT gmail.com
+Dr. Hu Chuan-Peng, School of Psychology, Nanjing Normal University, Nanjing, Jiangsu Province, China. Email: hcp4715 AT gmail.com
 
-Dr. Ji Chen, Professor, Department of Psychology, Zhejiang University, Hangzhou, Zhejiang Province, China. Email: jichen.allen AT hotmail.com
+Dr. Ji Chen, Department of Psychology, Zhejiang University, Hangzhou, Zhejiang Province, China. Email: jichen.allen AT hotmail.com
 
-Dr. Haiyang Geng, research scientist, Chen Frontier Lab for AI and Mental Health, Tianqiao and Chrissy Chen Institute, Shanghai, China. Email: miller.genga AT gmail.com
+Dr. Haiyang Geng, Chen Frontier Lab for AI and Mental Health, Tianqiao and Chrissy Chen Institute, Shanghai, China. Email: miller.genga AT gmail.com
 
-Dr. Qing (Vincent) Wang, Assistant Researcher, Shanghai Mental Health Center, School of Medicine, Shanghai Jiao Tong University, Shanghai, China. Email: vincent.w.qing AT gmail.com
+Dr. Qing (Vincent) Wang, Shanghai Mental Health Center, School of Medicine, Shanghai Jiao Tong University, Shanghai, China. Email: vincent.w.qing AT gmail.com
 
 
 ## Event details 
@@ -25,7 +25,7 @@ The Meetup will have two parts: Flash talks from early career researchers and a 
 
 
 ## Speakers
-We are calling for speakers!
+We are calling for speakers for *Flash talks*. 
 
 ## Contact
-Please contact our organizers
+Please contact our organizers.
